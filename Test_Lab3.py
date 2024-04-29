@@ -1,4 +1,5 @@
 import Lab3
+import pytest
 
 print("Test_Lab3")
 
